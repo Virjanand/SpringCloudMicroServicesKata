@@ -1,0 +1,4 @@
+security.ignored=/**
+
+limits-service.minimum=8
+limits-service.maximum=888

@@ -1,0 +1,5 @@
+package com.virjanand.currencyconversionservice;
+
+public class CurrencyConversionBean {
+
+}
